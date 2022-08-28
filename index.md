@@ -1,11 +1,25 @@
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Of7YqEAbpPc" title="DONK/ Soulja Boy/ Official Class Choreography By Jeremy Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183690292&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/theofficialwash" title="theofficialwash" target="_blank" style="color: #cccccc; text-decoration: none;">theofficialwash</a> · <a href="https://soundcloud.com/theofficialwash/cant-trust-thots-wash-x-french-montana-prod-by-maejor-and-chef-tone" title="Cant Trust Thots - Wash X French Montana (prod. by Maejor and Chef Tone)" target="_blank" style="color: #cccccc; text-decoration: none;">Cant Trust Thots - Wash X French Montana (prod. by Maejor and Chef Tone)</a></div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/LAmd1DQaotk" title="Muni Long - Thot Thoughts ft. Sukihana (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Muni Long, formerly known as hitmaker Priscilla Renea, is gaining some serious momentum...DAMN_MUNA!!!](https://www.papermag.com/muni-long-sukihana-thot-thoughts-2650623729.html?rebelltitem=3#rebelltitem3)
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif">
+      </div>
+    </div>
+  </div>
+</div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1384703656&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/sets/dont-say-i-didnt-warn-you-1" title="Don&#x27;t Say I Didn&#x27;t Warn You" target="_blank" style="color: #cccccc; text-decoration: none;">Don&#x27;t Say I Didn&#x27;t Warn You</a></div>
 <div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div><a href="https://giphy.com/channel/originals" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media.giphy.com/channel_assets/originals/abFL0aLWuzrm/80h.gif" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">Originals</div><div style="font-size:14px;font-weight:normal">@originals</div></a><p style="margin-top:6px"><strong>What&#x27;s the Password?</strong><br/>Too easy!
 </p></div>
 <IMG src="https://i.giphy.com/media/64a84EzYj1IehXVxKD/giphy.webp">
