@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![SUPERTUX](https://www.seekpng.com/png/full/314-3143360_free-download-penguin-clipart-tux-racer-linux-tux.png)
 
 
 ### Definition lists can be used with HTML syntax.
