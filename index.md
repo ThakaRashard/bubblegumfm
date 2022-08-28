@@ -1,16 +1,16 @@
 
 
-
+<IMG src="https://i.giphy.com/media/64a84EzYj1IehXVxKD/giphy.webp">
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/64a84EzYj1IehXVxKD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bbmas-red-carpet-billboard-music-awards-64a84EzYj1IehXVxKD">via GIPHY</a></p>
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/LAmd1DQaotk" title="Muni Long - Thot Thoughts ft. Sukihana (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LAmd1DQaotk" title="Muni Long - Thot Thoughts ft. Sukihana (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Muni Long, formerly known as hitmaker Priscilla Renea, is gaining some serious momentum...DAMN_MUNA!!!](https://www.papermag.com/muni-long-sukihana-thot-thoughts-2650623729.html?rebelltitem=3#rebelltitem3)
 
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif">
 <div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div><a href="https://giphy.com/channel/originals" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media.giphy.com/channel_assets/originals/abFL0aLWuzrm/80h.gif" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">Originals</div><div style="font-size:14px;font-weight:normal">@originals</div></a><p style="margin-top:6px"><strong>What&#x27;s the Password?</strong><br/>Too easy!
 </p></div>
-
+<IMG src="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.webp">
 ---
 layout: default
 ---
