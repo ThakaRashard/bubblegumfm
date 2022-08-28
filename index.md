@@ -1,7 +1,7 @@
 
 
 
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/64a84EzYj1IehXVxKD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bbmas-red-carpet-billboard-music-awards-64a84EzYj1IehXVxKD">via GIPHY</a></p>
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/LAmd1DQaotk" title="Muni Long - Thot Thoughts ft. Sukihana (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
