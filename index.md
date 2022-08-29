@@ -1,4 +1,8 @@
 
+
+
+<a href="https://digyourownhole25.thechemicalbrothers.com/"><IMG src="https://live.staticflickr.com/3588/3414626465_73d84a61c8_c.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0FjHy5dCyVROqDUl6f2VTK?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://lh3.googleusercontent.com/V2B7UXBaAmEl6Sq3K1titk7_rvyaV_zEAHfL3FTV1eOWycmJWC7z-vkHxsVT3A" alt="PARTiES_FOR_FUN_PEOPLE_that_GoNNA_BE_AH_GUBMiNT_CODE_SUMDAY">
 <a href="https://music.amontobin.com/album/supermodified"><IMG src="https://f4.bcbits.com/img/0003778798_10.jpg"></a>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/54zaC0AviuCfkDwHsUJIra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
