@@ -1,4 +1,4 @@
-
+<IMG src="https://folkways-media.si.edu/images/album_covers/SF1400/FW03822.jpg">
 <IMG src="https://dvfnvgxhycwzf.cloudfront.net/media/SharedImage/image600/.fnEbt__X/SharedImage-133857.png?t=5dc9311659f4b3db8942">
 <IMG src="https://i.discogs.com/nmhwN0wQTYoAUWRk5R_Uz4fyzYlvkmIqRiTBVnsidW4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTYw/NjQtMTQ1Mjg1MTMz/MC0xMDU4LmpwZWc.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6ChYiuv37FKdx0Rbk8QNvZ?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
