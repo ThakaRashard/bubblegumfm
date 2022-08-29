@@ -1,4 +1,6 @@
 
+<IMG src="https://i.scdn.co/image/ab67616d0000b2736ad8ba5499f63ea1fec232cf" alt="Born under a bad sign">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/42WQ76qWDQmHlHvJa6Z3Uw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://youtu.be/zq8a17d-c78"><IMG src="https://johnleehooker.com/wp-content/uploads/2016/01/The-Folk-Blues-of-John-Lee-Hooker.jpg"></a>
 <IMG src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg">
 <a href="https://digyourownhole25.thechemicalbrothers.com/"><IMG src="https://live.staticflickr.com/3588/3414626465_73d84a61c8_c.jpg"></a>
