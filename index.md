@@ -1,4 +1,7 @@
 
+<IMG src="https://dvfnvgxhycwzf.cloudfront.net/media/SharedImage/image600/.fnEbt__X/SharedImage-133857.png?t=5dc9311659f4b3db8942">
+<IMG src="https://i.discogs.com/nmhwN0wQTYoAUWRk5R_Uz4fyzYlvkmIqRiTBVnsidW4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTYw/NjQtMTQ1Mjg1MTMz/MC0xMDU4LmpwZWc.jpeg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6ChYiuv37FKdx0Rbk8QNvZ?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.scdn.co/image/ab67616d0000b2736ad8ba5499f63ea1fec232cf" alt="Born under a bad sign">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/42WQ76qWDQmHlHvJa6Z3Uw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://youtu.be/zq8a17d-c78"><IMG src="https://johnleehooker.com/wp-content/uploads/2016/01/The-Folk-Blues-of-John-Lee-Hooker.jpg"></a>
