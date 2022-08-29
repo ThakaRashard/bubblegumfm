@@ -17,9 +17,10 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
- /* background: $body-background url("../images/bkg.png") 0 0; */
-    background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-  color: $body-foreground;
+ /*   background-color: #010a00;
+background: $body-background url("../images/bkg.png") 0 0; */
+background-color: #010a00;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
