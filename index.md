@@ -30,6 +30,19 @@
 </p></div>
 <IMG src="https://i.giphy.com/media/64a84EzYj1IehXVxKD/giphy.webp">
 <IMG src="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.webp">
+
+
+## Welcome to the Public Domain
+[Welcome to the Public Domain](https://fairuse.stanford.edu/overview/public-domain/welcome/)
+The term “public domain” refers to creative materials that are not protected by intellectual property laws such as copyright, trademark, or patent laws. The public owns these works, not an individual author or artist. Anyone can use a public domain work without obtaining permission, but no one can ever own it. An important wrinkle to understand about public domain material is that, while each work belongs to the public, collections of public domain works may be protected by copyright. If, for example, someone has collected public domain images in a book or on a website, the collection as a whole may be protectable even though individual images are not...[ReadMorE](https://fairuse.stanford.edu/overview/public-domain/welcome/) 
+
+
+
+## Public_Domain
+#### Taken_from_Cornell_Law Legal_Encyclopedia
+The public domain includes every creative work that is no longer protected by a copyright](https://www.law.cornell.edu/wex/public_domain#:~:text=The%20public%20domain%20includes%20every,or%20otherwise%20used%20by%20anyone.), trademark, or patent.As stated on the Stanford University Libraries site, creative works most commonly become public domain in the four following ways: (1) the copyright expires, (2) failure to properly renew a copyright, (3) the work is placed in the public domain deliberately by the copyright owner, and (4) the work was not of a type that can be protected by copyright. Further, certain transformative uses of the creative work can result in a new copyright owned by the one who created it. That being said, only the aspect of the use that is transformative can be copyrighted, not the public domain work itself. For example, all of Shakespeare’s works are in the public domain. While no one could claim a new copyright on any individual play, a new creator could copyright the specific arrangement of a collection of the plays. Further, new works based on the original works but with a creative new take can be copyrighted, such as the 1999 film “10 Things I Hate About You” based on “The Taming of the Shrew.”
+
+
 ---
 layout: default
 ---
