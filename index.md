@@ -1,3 +1,5 @@
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-28%209.37.39%20AM.png">
+
 [California 1952, Hollywood to Sunset Strip in color [60fps,Remastered] w/sound design added](https://www.youtube.com/watch?v=YM5A4TamTzo)
 [What’s the Most Important Objective of Website Design?](https://bootstrapcreative.com/whats-the-most-important-objective-of-website-design/)
 
