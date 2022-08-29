@@ -1,3 +1,6 @@
+[California 1952, Hollywood to Sunset Strip in color [60fps,Remastered] w/sound design added](https://www.youtube.com/watch?v=YM5A4TamTzo)
+[What’s the Most Important Objective of Website Design?](https://bootstrapcreative.com/whats-the-most-important-objective-of-website-design/)
+
 <IMG src="https://images.squarespace-cdn.com/content/v1/58b3000ae3df2844f576407a/1534856746593-L2F9OTLYYXQCLM4WIA4N/802Hollywood709one.jpg?format=1000w">
 
 <IMG src="https://images.squarespace-cdn.com/content/v1/5967d5bde45a7cbadee66cd7/1504844315529-9V6X8C0128ZL71LW33BP/1000_01_fs.jpg">
