@@ -1,3 +1,5 @@
+[MEDINA GREEN feat. MOS DEF - FLA LA LASHE`](https://www.youtube.com/watch?v=ozmTTdcDVcI)
+
 ## WHY_YALL_PROSTiTUTED??
 ### And crossed me out, "CHICKEN"!?
 
