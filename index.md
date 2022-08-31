@@ -1,4 +1,4 @@
-
+<iframe style="border-radius:22px" src="https://open.spotify.com/embed/track/2D1TJT8H9rq4R7AsoQTReI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://open.spotify.com/track/3Q7E5m8Ek0TTCAJj4mLlJV?si=b5577ae6e7d345b5"><IMG src="https://i.discogs.com/07a3xgsYfSdcbcpfplTUseVHCFkvVfUMgunwyZNMC7E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIz/MzEtMTYzOTY4MTgw/Ny04OTMyLmpwZWc.jpeg"></a>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4iuZr9ptf5nAy3f8afPdBM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
