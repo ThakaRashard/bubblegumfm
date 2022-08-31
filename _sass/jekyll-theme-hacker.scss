@@ -334,3 +334,21 @@ a {
   max-width: 100%;
   max-height: 100%;
 }
+
+
+/* PiNUP_GALLERY */
+.pinupGallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 0 100%;
+}
