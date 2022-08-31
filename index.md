@@ -1,4 +1,14 @@
-## welcome, dozerz
+
+
+<IMG src="https://pictures.abebooks.com/inventory/31036804952.jpg"  alt="##UNCANNY_XMEN_268_READERS">
+<IMG src="https://2.bp.blogspot.com/-Co66wntbIQg/VcIps4OMf8I/AAAAAAAAaNU/sEa17FVRdqM/s1600/Uncanny%2BX-Men%2B%2523268%2B-%2BPlot.png">
+<IMG src="https://thevirtuesofcaptainamerica.files.wordpress.com/2022/01/xmen268b.jpg">
+<IMG src="https://pbs.twimg.com/media/ETy4csfWkAAqzWY.jpg">
+
+<IMG src="https://terrigen-cdn-dev.marvel.com/content/prod/2x/xmen2021004_mp_var.jpg">
+<a href="https://www.youtube.com/watch?v=eNXsxYhNqo0"><IMG src="https://flxt.tmsimg.com/assets/p8121_p_v8_aa.jpg"></a>
+
+## Welcome, Dozerz
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3RNzyYurjHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
