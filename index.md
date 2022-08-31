@@ -1,3 +1,5 @@
+
+
 [Synopsis and plot overview of Shakespeare's Hamlet](https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/hamlet/)
 
 <iframe style="border-radius: 23px" src="https://open.spotify.com/embed/track/7lBETHInBVdFrKhC9J24H0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -96,10 +98,8 @@ I found this podcast digging through my wifes soundcloud discography and found t
 ## I wish I had a chance to make you exclaim in excitement again, i miss you
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/14Cpx8cJG5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<<<<<<< HEAD
 [PHOTOGRAPHER_SPOTLiGHT::JAMES_ABBE](https://www.jamesabbe.com/)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/58BBkjnyakESjlYvATtwCX?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-=======
 [Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
 [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
 [MEDINA GREEN feat. MOS DEF - FLA LA LASHE`](https://www.youtube.com/watch?v=ozmTTdcDVcI)
@@ -114,7 +114,6 @@ I found this podcast digging through my wifes soundcloud discography and found t
 <a href="https://peopleunderthestairs.bandcamp.com/"><IMG src="https://i.discogs.com/qKntCFKPVIRnRCViRMSP9amGvomxUAr2WGLLTUwkml8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/Mi0xNDU5NDU0NjUx/LTYwNjMuanBlZw.jpeg"></a>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6wRasCHEWubnqxdDlUf7mo?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
->>>>>>> 71257a3924ad213858583f11f5cf9a16a78cbb03
 <IMG src="https://i.ebayimg.com/images/g/nnkAAOSw2gxYpA59/s-l600.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1LTKBZNFRu4f6dnlJuH3wh?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://f4.bcbits.com/img/a3654258658_16.jpg">
@@ -314,5 +313,9 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_CORAL/master/assets/images/kisspng-microsoft-certified-professional-mcse-engineer-mcs-partners-5b0c6e15203581.1951216815275412691319.png">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_CORAL/master/assets/images/a-certification-logo-comptia-a-1636574.png">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/113358276&color=%234d240f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/cloopmusic" title="cloopmusic" target="_blank" style="color: #cccccc; text-decoration: none;">cloopmusic</a> · <a href="https://soundcloud.com/cloopmusic/amel-larrieux-i-do-take" title="Amel Larrieux - I Do Take" target="_blank" style="color: #cccccc; text-decoration: none;">Amel Larrieux - I Do Take</a></div>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305556006&color=%23989c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/love-like-this" title="Love Like This" target="_blank" style="color: #cccccc; text-decoration: none;">##Dear_Thaka##_we_HAVE##Love Like This</a></div>
