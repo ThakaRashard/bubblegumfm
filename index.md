@@ -6,7 +6,7 @@
       <div class='leftColumn'>
 <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
   <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="first">
-  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second"
+  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second" >
 </a>
       </div>
     </div>
@@ -14,7 +14,7 @@
       <div class='rightColumn'>
 <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
   <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="second">
-  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="first"
+  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="first">
 </a>
       </div>
     </div>
