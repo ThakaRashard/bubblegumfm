@@ -113,32 +113,32 @@ I found this podcast digging through my wifes soundcloud discography and found t
 [Red Eye Mobb | Cleveland, Ohio - 2021 Meeting](https://www.youtube.com/watch?v=tM_iG1X02rA)
 
 <a href="https://peopleunderthestairs.bandcamp.com/"><IMG src="https://i.discogs.com/qKntCFKPVIRnRCViRMSP9amGvomxUAr2WGLLTUwkml8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/Mi0xNDU5NDU0NjUx/LTYwNjMuanBlZw.jpeg"></a>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6wRasCHEWubnqxdDlUf7mo?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/6wRasCHEWubnqxdDlUf7mo?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <IMG src="https://i.ebayimg.com/images/g/nnkAAOSw2gxYpA59/s-l600.jpg">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1LTKBZNFRu4f6dnlJuH3wh?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/1LTKBZNFRu4f6dnlJuH3wh?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://f4.bcbits.com/img/a3654258658_16.jpg">
 <IMG src="https://f4.bcbits.com/img/0028126181_10.jpg">
-<iframe style="border-radius:1px" src="https://open.spotify.com/embed/album/24tZC54R5v3rg7PDETTLub?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/24tZC54R5v3rg7PDETTLub?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.scdn.co/image/ab67616d0000b27301593e62f39242f7fcaefd96">
 
 [Wanda Sá - Vagamente - 1964 - Full Album](https://www.youtube.com/watch?v=ma9tVZdQcT0)
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0oKGsYeWtjIMz703Jsc4lB?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/0oKGsYeWtjIMz703Jsc4lB?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/5Z1oxHJbiuI" title="Lightnin Slim- Rooster Blues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0p8IFUzQvw5BZS4rMSwEYF?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/0p8IFUzQvw5BZS4rMSwEYF?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://folkways-media.si.edu/images/album_covers/SF1400/FW03822.jpg">
 <IMG src="https://dvfnvgxhycwzf.cloudfront.net/media/SharedImage/image600/.fnEbt__X/SharedImage-133857.png?t=5dc9311659f4b3db8942">
 <IMG src="https://i.discogs.com/nmhwN0wQTYoAUWRk5R_Uz4fyzYlvkmIqRiTBVnsidW4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTYw/NjQtMTQ1Mjg1MTMz/MC0xMDU4LmpwZWc.jpeg">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6ChYiuv37FKdx0Rbk8QNvZ?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/6ChYiuv37FKdx0Rbk8QNvZ?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.scdn.co/image/ab67616d0000b2736ad8ba5499f63ea1fec232cf" alt="Born under a bad sign">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/42WQ76qWDQmHlHvJa6Z3Uw?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/42WQ76qWDQmHlHvJa6Z3Uw?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://youtu.be/zq8a17d-c78"><IMG src="https://johnleehooker.com/wp-content/uploads/2016/01/The-Folk-Blues-of-John-Lee-Hooker.jpg"></a>
 <IMG src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg">
 <a href="https://digyourownhole25.thechemicalbrothers.com/"><IMG src="https://live.staticflickr.com/3588/3414626465_73d84a61c8_c.jpg"></a>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0FjHy5dCyVROqDUl6f2VTK?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/0FjHy5dCyVROqDUl6f2VTK?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://lh3.googleusercontent.com/V2B7UXBaAmEl6Sq3K1titk7_rvyaV_zEAHfL3FTV1eOWycmJWC7z-vkHxsVT3A" alt="PARTiES_FOR_FUN_PEOPLE_that_GoNNA_BE_AH_GUBMiNT_CODE_SUMDAY">
 <a href="https://music.amontobin.com/album/supermodified"><IMG src="https://f4.bcbits.com/img/0003778798_10.jpg"></a>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/54zaC0AviuCfkDwHsUJIra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/54zaC0AviuCfkDwHsUJIra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-28%209.37.39%20AM.png">
 
@@ -152,7 +152,7 @@ I found this podcast digging through my wifes soundcloud discography and found t
 
 [You can include an open source license in your repository to make it easier for other people to contribute](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Of7YqEAbpPc" title="DONK/ Soulja Boy/ Official Class Choreography By Jeremy Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/Of7YqEAbpPc" title="DONK/ Soulja Boy/ Official Class Choreography By Jeremy Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183690292&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/theofficialwash" title="theofficialwash" target="_blank" style="color: #cccccc; text-decoration: none;">theofficialwash</a> · <a href="https://soundcloud.com/theofficialwash/cant-trust-thots-wash-x-french-montana-prod-by-maejor-and-chef-tone" title="Cant Trust Thots - Wash X French Montana (prod. by Maejor and Chef Tone)" target="_blank" style="color: #cccccc; text-decoration: none;">Cant Trust Thots - Wash X French Montana (prod. by Maejor and Chef Tone)</a></div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/LAmd1DQaotk" title="Muni Long - Thot Thoughts ft. Sukihana (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
